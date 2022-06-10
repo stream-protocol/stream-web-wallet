@@ -91,6 +91,7 @@ See https://github.com/stream-protocol/stream-web-wallet/blob/master/LICENSE. Th
 - Project Description & Pitch Deck
 - Stream Token (STRM) Implementation
 - Adding SPL Token Support
+- Modification & New Wiki
 - Adding Staking, Governance and Liquidity pool features
 - Adding Cross-Chain Support (BNC Chain, Ethereum, Solana, Harmony One)
 - Stream Protocol Implementation
