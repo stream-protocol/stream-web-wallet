@@ -86,12 +86,14 @@ Please visit our [issues page](https://github.com/stream-protocol/stream-web-wal
 
 See https://github.com/stream-protocol/stream-web-wallet/blob/master/LICENSE. The license shall be governed by and construed in accordance with the laws of the State of California, United States of America. I accept services of processes by [email](mailto:legal@hiddenstate.xyz) and Telegram chats [@aaronqli](https://t.me/aaronqli).
 
-# ToDo
-Project Description & Pitch Deck
-Stream Token Implementation
-Adding SPL Token Support
-Adding Cross-Chain Support (BNC Chain, Ethereum, Solana, Harmony One)
-Stream Protocol Implementation
-Create Smart Contracts
-StreamSwap features & connections
+## ToDo / Developments
+
+-Project Description & Pitch Deck
+-Stream Token (STRM) Implementation
+-Adding SPL Token Support
+-Adding Cross-Chain Support (BNC Chain, Ethereum, Solana, Harmony One)
+-Stream Protocol Implementation
+-Create Smart Contracts
+-Create Stream Tokens (Ethereum & Harmony One)
+-StreamSwap features & connections
 
