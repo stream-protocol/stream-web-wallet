@@ -1,4 +1,4 @@
-#Stream web wallet core + web app / wallet infrastructure
+# Stream web wallet core + web app / wallet infrastructure
 
 Based of Harmony One
 
