@@ -88,12 +88,12 @@ See https://github.com/stream-protocol/stream-web-wallet/blob/master/LICENSE. Th
 
 ## ToDo / Developments
 
--Project Description & Pitch Deck
--Stream Token (STRM) Implementation
--Adding SPL Token Support
--Adding Cross-Chain Support (BNC Chain, Ethereum, Solana, Harmony One)
--Stream Protocol Implementation
--Create Smart Contracts
--Create Stream Tokens (Ethereum & Harmony One)
--StreamSwap features & connections
+- Project Description & Pitch Deck
+- Stream Token (STRM) Implementation
+- Adding SPL Token Support
+- Adding Cross-Chain Support (BNC Chain, Ethereum, Solana, Harmony One)
+- Stream Protocol Implementation
+- Create Smart Contracts
+- Create Stream Tokens (Ethereum & Harmony One)
+- StreamSwap features & connections
 
