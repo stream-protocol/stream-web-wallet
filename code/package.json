@@ -1,6 +1,6 @@
 {
     "name": "stream-web-wallet-core",
-    "version": "0.16.1",
+    "version": "0.1.0",
     "private": true,
     "license": "Apache-2.0",
     "scripts": {
@@ -19,7 +19,7 @@
         "@openzeppelin/contracts": "^4.3.0",
         "@truffle/hdwallet-provider": "^1.5.1",
         "aes-js": "^3.1.2",
-        "argon2-browser": "git+https://github.com/stream-protocol/argon2-browser#1.21.0-hpc",
+        "argon2-browser": "git+https://github.com/polymorpher/argon2-browser#1.21.0-hpc",
         "axios": "^0.21.1",
         "dotenv": "^10.0.0",
         "elliptic": "^6.5.4",

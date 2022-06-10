@@ -1,4 +1,4 @@
-# Stream code
+# Stream Wallet code
 
 First, please make sure you completed the setup script in [Quick Start](https://github.com/stream-protocol/stream-web-wallet#quick-start). If you haven't, your set up won't work on mainnet.
 

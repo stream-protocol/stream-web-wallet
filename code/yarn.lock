@@ -3211,7 +3211,7 @@ anymatch@~3.1.1, anymatch@~3.1.2:
     normalize-path "^3.0.0"
     picomatch "^2.0.4"
 
-"argon2-browser@git+https://github.com/stream-protocol/argon2-browser#1.21.0-hpc":
+"argon2-browser@git+https://github.com/polymorpher/argon2-browser#1.21.0-hpc":
   version "1.21.0-hpc"
   resolved "git+https://github.com/stream-protocol/argon2-browser#609a1518d4158c3732fe1e9a7f7b466ef41b76b4"
 

@@ -23,7 +23,7 @@ You don't need to be technical to use Stream wallet. It is:
 - **Durable**: easily restore wallet by scanning QR code exported by Google Authenticator, or recover funds using another wallet.
 - **Smart**: configurable spending limit, composable security, and auto-recover mechanisms. Imagine a (physical) wallet that has an embedded computer - it can do a lot more than a plain old wallet that only carries your money around.   
 
-Try it at https://StreamWallet.crazy.one
+Try it at https://wallet-demo.streamprotocol.org
 
 ## Technical Details
 
@@ -99,4 +99,8 @@ See https://github.com/stream-protocol/stream-web-wallet/blob/master/LICENSE. Th
 - Create Stream Protocol Token Standard (STR20) + Smart Contracts
 - Create Stream Tokens (Ethereum & Harmony One)
 - StreamSwap features & connections
+- Create Demo Wallet App https://wallet-demo.streamprotocol.org
+- Create StreamSwap npm / node.js
+- Create RPC, modify & Stream Wallet core
+- 
 
