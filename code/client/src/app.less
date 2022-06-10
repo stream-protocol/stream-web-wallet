@@ -1,0 +1,15 @@
+// https://ant.design/docs/react/customize-theme-variable
+// This relies on css variables: https://caniuse.com/css-variables
+@import 'antd/dist/antd.variable.min.css';
+
+@import './styles/ant.less'; // some overrides on ant styles from v1 ui
+@import './styles/v2ant.less';  // some overrides on ant styles from v2 ui (behind `v2ui` class)
+
+input[type="number"] {
+  -moz-appearance: textfield;
+}
+input[type="number"]::-webkit-inner-spin-button,
+input[type="number"]::-webkit-outer-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}

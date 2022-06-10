@@ -1,0 +1,7 @@
+/certs/*
+!/certs/README.md
+!/certs/gen.sh
+backup.eslintrc.js
+/cache
+/es.env
+/scripts/es.sh
