@@ -93,7 +93,7 @@ See https://github.com/stream-protocol/stream-web-wallet/blob/master/LICENSE. Th
 - Adding SPL Token Support
 - Adding Cross-Chain Support (BNC Chain, Ethereum, Solana, Harmony One)
 - Stream Protocol Implementation
-- Create Smart Contracts
+- Create Stream Protocol Token Standard (STR20) + Smart Contracts
 - Create Stream Tokens (Ethereum & Harmony One)
 - StreamSwap features & connections
 
