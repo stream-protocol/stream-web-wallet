@@ -84,7 +84,7 @@
         "eslint-plugin-truffle": "^0.3.1",
         "exponential-backoff": "^3.1.0",
         "json2csv": "^5.0.7",
-        "moment-timezone": "^0.5.33",
+        "moment-timezone": "^0.5.35",
         "rlp": "^2.2.6",
         "solhint": "^3.3.5",
         "solidity-coverage": "^0.7.20",
