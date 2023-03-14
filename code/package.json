@@ -90,7 +90,7 @@
         "solidity-coverage": "^0.7.20",
         "solidity-docgen": "^0.5.16",
         "standard": "^12.0.1",
-        "webpack": "^5.33.2",
+        "webpack": "^5.76.0",
         "webpack-bundle-analyzer": "^3.6.1",
         "webpack-cli": "4.8.0",
         "webpack-dev-server": "^4.0.0",
